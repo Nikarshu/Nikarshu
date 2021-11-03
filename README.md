@@ -1,9 +1,9 @@
 <h3 align="center">
-Hi there👋, It's <b><a target="_blank" href="https://t.me/Canyousenseme_bitch">Nikarshu </a></b> Here
+Hi there👋, It's Nikarshu Here
 <br/>
 
-
 <h3 align="center">
+U will find me here..... 
 
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Canyousenseme_bitch)
 [![Anilist](https://img.shields.io/badge/Anilist-blue.svg?style=for-the-badge&logo=anilist)](https://anilist.co/user/NikarshuKun/)
