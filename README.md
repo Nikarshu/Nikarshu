@@ -23,5 +23,5 @@ U will find me here.....
         <img src = "https://github-readme-streak-stats.herokuapp.com?user=Nikarshu&theme=dark&hide_border=true" width = 400>    
     <br><br>
     <samp>
-     ✧༺♥༻✧
+     
 </p><hr>
