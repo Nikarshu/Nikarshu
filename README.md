@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://te.legra.ph/file/0f6bac97b8764620e0980.jpg">
+    <img src="https://te.legra.ph/file/b281b5a68e66ebe4fabd8.jpg">
 </div>
 
 
@@ -11,8 +11,8 @@ Hi there,it's me Nikarshu! <img src="https://raw.githubusercontent.com/MartinHei
 Hit me up ~
 
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Canyousenseme_bitch)
-[![Anilist](https://img.shields.io/badge/Anilist-blue.svg?style=for-the-badge&logo=anilist)](https://anilist.co/user/NikarshuKun/)
-<a href="nileshhati115@gmail.com"><img src="https://img.shields.io/badge/Gmail-blue.svg?style=for-the-badge&logo=gmail"></a>
+[![Anilist](https://img.shields.io/badge/Anilist-black.svg?style=for-the-badge&logo=anilist)](https://anilist.co/user/NikarshuKun/)
+<a href="nileshhati115@gmail.com"><img src="https://img.shields.io/badge/Gmail-2130E2.svg?style=for-the-badge&logo=gmail"></a>
         ㅤ 
 <h3>Languages and Tools</h3>
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
