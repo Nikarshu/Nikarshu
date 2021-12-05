@@ -9,7 +9,7 @@ Hi there, it's me Nikarshu! <img src="https://raw.githubusercontent.com/MartinHe
 
 
 ##  Hit me up ~
-<div align="center">
+<h3 align="center">
 
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Canyousenseme_bitch)
 [![Myanimelist](https://img.shields.io/badge/Myanimelist-333333.svg?style=for-the-badge&logo=Myanimelist)](http://Myanimelist.net/profile/Nikarshu)
