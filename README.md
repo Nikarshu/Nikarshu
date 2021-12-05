@@ -8,7 +8,9 @@ Hi there, it's me Nikarshu! <img src="https://raw.githubusercontent.com/MartinHe
 <br/>
 
 
-## Hit me up ~
+##  Hit me up ~
+<div align="center">
+
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Canyousenseme_bitch)
 [![Myanimelist](https://img.shields.io/badge/Myanimelist-333333.svg?style=for-the-badge&logo=Myanimelist)](http://Myanimelist.net/profile/Nikarshu)
 [![Anilist](https://img.shields.io/badge/Anilist-black.svg?style=for-the-badge&logo=anilist)](https://anilist.co/user/NikarshuKun/)
