@@ -39,3 +39,5 @@ Hi there, it's me Nikarshu! <img src="https://raw.githubusercontent.com/MartinHe
 ##  🎶 Currently Playing
 [![Spotify](https://spotify.pokurt.me/api/spotify)](https://open.spotify.com/user/6bguradkdruopt2sqs6csis4t)
 <br/>
+
+![Metrics](https://metrics.lecoq.io/Nikarshu?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
