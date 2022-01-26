@@ -4,7 +4,8 @@
 
 
 <h3 align="center">
-Hi there, it's me Nikarshu! (aka Nilesh) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
+Hi there, it's me Nikarshu!
+(aka Nilesh) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
 <br/>
 
 
