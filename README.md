@@ -17,7 +17,8 @@ Hm....hey? It's me Nikarshu! <img src="https://raw.githubusercontent.com/MartinH
 [![YouTube](https://img.shields.io/badge/YouTube-E72415.svg?style=for-the-badge&logo=YouTube)](https://youtube.com/channel/UCO7lbub7_WpDu2sE7b4Z7GQ)
 [![Spotify](https://img.shields.io/badge/Spotify-grey.svg?style=for-the-badge&logo=Spotify)](https://open.spotify.com/user/6bguradkdruopt2sqs6csis4t)
 <a href="nileshhati115@gmail.com"><img src="https://img.shields.io/badge/Gmail-2130E2.svg?style=for-the-badge&logo=gmail"></a>
-        ㅤ 
+<br/>
+     ㅤ 
 <h3>Languages and Tools</h3>
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
