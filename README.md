@@ -15,6 +15,7 @@ Hm....hey? It's me Nikarshu! <img src="https://raw.githubusercontent.com/MartinH
 [![Myanimelist](https://img.shields.io/badge/Myanimelist-333333.svg?style=for-the-badge&logo=Myanimelist)](http://Myanimelist.net/profile/Nikarshu)
 [![Anilist](https://img.shields.io/badge/Anilist-black.svg?style=for-the-badge&logo=anilist)](https://anilist.co/user/NikarshuKun/)
 [![YouTube](https://img.shields.io/badge/YouTube-E72415.svg?style=for-the-badge&logo=YouTube)](https://youtube.com/channel/UCO7lbub7_WpDu2sE7b4Z7GQ)
+[![Spotify](https://img.shields.io/badge/Spotify-grey.svg?style=for-the-badge&logo=Spotify)](https://open.spotify.com/user/6bguradkdruopt2sqs6csis4t)
 <a href="nileshhati115@gmail.com"><img src="https://img.shields.io/badge/Gmail-2130E2.svg?style=for-the-badge&logo=gmail"></a>
         ㅤ 
 <h3>Languages and Tools</h3>
@@ -34,11 +35,6 @@ Hm....hey? It's me Nikarshu! <img src="https://raw.githubusercontent.com/MartinH
      
 </p><hr>
 <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
-<br/>
-
-
-## 🎶 Currently Playing
-[![Spotify](https://spotify.pokurt.me/api/spotify)](https://open.spotify.com/user/6bguradkdruopt2sqs6csis4t)
 <br/>
 
 ![Metrics](https://metrics.lecoq.io/Nikarshu?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
