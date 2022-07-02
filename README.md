@@ -37,5 +37,3 @@ Hmmm...Hey? It's me Nikarshu! <img src="https://raw.githubusercontent.com/Martin
 </p><hr>
 <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
 <br/>
-
-![Metrics](https://metrics.lecoq.io/Nikarshu?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
