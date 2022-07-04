@@ -4,11 +4,10 @@
 
 
 <h3 align="center">
-Hmmm...Hey? It's me Nikarshu! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="2px">
-<br/>
-(aka Nilesh) 
+Hmmm...Hey? It's me Nikarshu!
+<img src = https://i.pinimg.com/originals/25/d2/54/25d254df236c61306bceb86df5f671f1.gif width = 80 align = "right">
 
-##  Hit me up ~
+## 𝐇𝐢𝐭 𝐦𝐞 𝐮𝐩~
 <h3 align="center">
 
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Canyousenseme_bitch)
